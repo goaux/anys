@@ -1,5 +1,8 @@
 # anys
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/goaux/anys.svg)](https://pkg.go.dev/github.com/goaux/anys)
+[![Go Report Card](https://goreportcard.com/badge/github.com/goaux/anys)](https://goreportcard.com/report/github.com/goaux/anys)
+
 A Go package that provides utilities for working with slices of any type,
 simplifying type conversions between concrete types and `any` (interface{}).
 
